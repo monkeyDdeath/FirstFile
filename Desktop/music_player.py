@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Aug 18 10:35:56 2020
-
-@author: wsnt
-"""
 
 
 import pygame
